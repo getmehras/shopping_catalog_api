@@ -1,0 +1,156 @@
+{
+   "catagory":[
+      {
+         "id":1,
+         "name":"Electricals",
+         "products":[
+            {
+               "id":1,
+               "name":"Ceilling Fan",
+               "price":"112.98",
+               "description":"Ceiling Fan with Light Kit and Remote Control",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":2,
+               "name":"Table Lamp",
+               "price":"49.97",
+               "description":"28 in. Bronze Table Lamp with Natural Linen Shade",
+               "imageUrl":"",
+               "review":"***(200)"
+            },
+            {
+               "id":3,
+               "name":"Table Fan",
+               "price":"32.99",
+               "description":"12 in. 3 Speed Black Oscillating Personal Table Fan",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":4,
+               "name":"Light Bulb",
+               "price":"20.49",
+               "description":"100-Watt Equivalent A19 Non-Dimmable LED Light Bulb Daylight",
+               "imageUrl":"",
+               "review":""
+            }
+         ]
+      },
+      {
+         "id":2,
+         "name":"Tools",
+         "products":[
+            {
+               "id":1,
+               "name":"Wrenchs",
+               "price":"35.99",
+               "description":"Ratcheting Combination Wrench Set",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":2,
+               "name":"Hammer",
+               "price":"28.97",
+               "description":"22 oz. Milled Face Framing Hammer",
+               "imageUrl":"",
+               "review":"***(400)"
+            },
+            {
+               "id":3,
+               "name":"Drill Driver",
+               "price":"189.99",
+               "description":"20V MAX Cordless 1/2 in. Drill/Driver",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":4,
+               "name":"Circular Saw",
+               "price":"20.49",
+               "description":"M18 FUEL 18V Lithium-Ion Cordless 7-1/4 in. Rear Handle Circular Saw",
+               "imageUrl":"",
+               "review":""
+            }
+         ]
+      },
+      {
+         "id":3,
+         "name":"Tools",
+         "products":[
+            {
+               "id":1,
+               "name":"Wrenchs",
+               "price":"35.99",
+               "description":"Ratcheting Combination Wrench Set",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":2,
+               "name":"Hammer",
+               "price":"28.97",
+               "description":"22 oz. Milled Face Framing Hammer",
+               "imageUrl":"",
+               "review":"***(400)"
+            },
+            {
+               "id":3,
+               "name":"Drill Driver",
+               "price":"189.99",
+               "description":"20V MAX Cordless 1/2 in. Drill/Driver",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":4,
+               "name":"Circular Saw",
+               "price":"20.49",
+               "description":"M18 FUEL 18V Lithium-Ion Cordless 7-1/4 in. Rear Handle Circular Saw",
+               "imageUrl":"",
+               "review":""
+            }
+         ]
+      },
+      {
+         "id":4,
+         "name":"Lawn & Garden",
+         "products":[
+            {
+               "id":1,
+               "name":"River Rock",
+               "price":"28.86",
+               "description":"0.50 cu. ft. 40 lbs. 3/4 in. River Rock",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":2,
+               "name":"Seed Sprayer",
+               "price":"47.98",
+               "description":"Mini, 5,000 sq. ft. Broadcast Spreader for Seed",
+               "imageUrl":"",
+               "review":"***(400)"
+            },
+            {
+               "id":3,
+               "name":"Indoor Plants",
+               "price":"48.99",
+               "description":"10 in. White Bird in Paradise Pla",
+               "imageUrl":"",
+               "review":""
+            },
+            {
+               "id":4,
+               "name":"Garden Soil",
+               "price":"15.49",
+               "description":"1.5 cu. ft. Garden Soil for Trees and Shrub",
+               "imageUrl":"",
+               "review":""
+            }
+         ]
+      }
+   ]
+}
