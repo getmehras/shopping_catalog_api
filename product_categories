@@ -1,0 +1,52 @@
+[
+   {
+      "id":"AEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Home Appliances",
+      "imageUrl":"HomeApplianceGrid"
+   },
+   {
+      "id":"BEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Electricals",
+      "imageUrl":"ElectricGrid"
+   },
+   {
+      "id":"CEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Home Tools",
+      "imageUrl":"ToolsGrid"
+   },
+   {
+      "id":"DEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Lawn & Garden",
+      "imageUrl":"LawnGardenGrid"
+   },
+   {
+      "id":"EEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Pets",
+      "imageUrl":"PetsGrid"
+   },
+   {
+      "id":"FEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Clothing",
+      "imageUrl":"ClothingGrid"
+   },
+   {
+      "id":"FEE26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Toys",
+      "imageUrl":"ToysGrid"
+   },
+   {
+      "id":"FEC26D05-FAD8-445A-B2F4-95635408004B",
+      "name":"Music & Gaming",
+      "imageUrl":"MusicnGamingGrid"
+   },
+   {
+      "id":"FEC26D06-FAD8-445A-B2F4-95635408004B",
+      "name":"Heating & Cooling",
+      "imageUrl":"HeatingnCoolingGrid"
+   },
+   {
+      "id":"FEC26D07-FAD8-445A-B2F4-95635408004B",
+      "name":"Groceries",
+      "imageUrl":"GroceryGrid"
+   }
+]
