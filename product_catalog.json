@@ -1,52 +1,146 @@
 [
    {
       "id":"AEB26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Home Appliances",
-      "imageUrl":"HomeApplianceGrid"
+      "name":"Electricals",
+      "products":[
+         {
+            "id":"11F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
+            "name":"Ceilling Fan",
+            "price":112.98,
+            "description":"Ceiling Fan with Light Kit and Remote Control",
+            "imageUrl":"CeillingFan",
+            "review":""
+         },
+         {
+            "id":"12F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
+            "name":"Table Lamp",
+            "price":49.97,
+            "description":"28 in. Bronze Table Lamp with Natural Linen Shade",
+            "imageUrl":"TableLamp",
+            "review":"***(200)"
+         },
+         {
+            "id":"13F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
+            "name":"Table Fan",
+            "price":32.99,
+            "description":"12 in. 3 Speed Black Oscillating Personal Table Fan",
+            "imageUrl":"TableFan",
+            "review":""
+         },
+         {
+            "id":"14F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
+            "name":"Light Bulb",
+            "price":20.49,
+            "description":"100-Watt Equivalent A19 Non-Dimmable LED Light Bulb Daylight",
+            "imageUrl":"LightBulb",
+            "review":""
+         }
+      ]
    },
    {
       "id":"BEB26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Electricals",
-      "imageUrl":"ElectricGrid"
+      "name":"Tools",
+      "products":[
+         {
+            "id":"21B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Wrenchs",
+            "price":35.99,
+            "description":"Ratcheting Combination Wrench Set",
+            "imageUrl":"Wrenchs",
+            "review":""
+         },
+         {
+            "id":"22B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Hammer",
+            "price":28.97,
+            "description":"22 oz. Milled Face Framing Hammer",
+            "imageUrl":"Hammer",
+            "review":"***(400)"
+         },
+         {
+            "id":"23B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Drill Driver",
+            "price":189.99,
+            "description":"20V MAX Cordless 1/2 in. Drill/Driver",
+            "imageUrl":"DrillDriver",
+            "review":""
+         },
+         {
+            "id":"24B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Circular Saw",
+            "price":20.49,
+            "description":"M18 FUEL 18V Lithium-Ion Cordless 7-1/4 in. Rear Handle Circular Saw",
+            "imageUrl":"Saws",
+            "review":""
+         }
+      ]
    },
    {
       "id":"CEB26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Home Tools",
-      "imageUrl":"ToolsGrid"
+      "name":"Home Appliances",
+      "products":[
+         {
+            "id":"31B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Refrigerator",
+            "price":1845.99,
+            "description":"35.75 in. W 28.2 cu. ft. 3-Door French Door Refrigerator",
+            "imageUrl":"Refrigerator",
+            "review":"****(1000)"
+         },
+         {
+            "id":"32B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"LG Front Load Washer",
+            "price":897.95,
+            "description":"4.5 cu. ft. Large Capacity High Efficiency in Graphite Steel",
+            "imageUrl":"Washer",
+            "review":"****(1000)"
+         },
+         {
+            "id":"33B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Cooktop",
+            "price":549.99,
+            "description":"24 in. Coil Top Electric Cooktop in Stainless Steel",
+            "imageUrl":"Cooktop",
+            "review":"****(1000)"
+         }
+      ]
    },
    {
       "id":"DEB26D05-FAD8-445A-B2F4-95635408004B",
       "name":"Lawn & Garden",
-      "imageUrl":"LawnGardenGrid"
-   },
-   {
-      "id":"EEB26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Pets",
-      "imageUrl":"PetsGrid"
-   },
-   {
-      "id":"FEB26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Clothing",
-      "imageUrl":"ClothingGrid"
-   },
-   {
-      "id":"FEE26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Toys",
-      "imageUrl":"ToysGrid"
-   },
-   {
-      "id":"FEC26D05-FAD8-445A-B2F4-95635408004B",
-      "name":"Music & Gaming",
-      "imageUrl":"MusicnGamingGrid"
-   },
-   {
-      "id":"FEC26D06-FAD8-445A-B2F4-95635408004B",
-      "name":"Heating & Cooling",
-      "imageUrl":"HeatingnCoolingGrid"
-   },
-   {
-      "id":"FEC26D07-FAD8-445A-B2F4-95635408004B",
-      "name":"Groceries",
-      "imageUrl":"GroceryGrid"
+      "products":[
+         {
+            "id":"41B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"River Rock",
+            "price":28.86,
+            "description":"0.50 cu. ft. 40 lbs. 3/4 in. River Rock",
+            "imageUrl":"RiverRock",
+            "review":""
+         },
+         {
+            "id":"42B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Seed Sprayer",
+            "price":47.98,
+            "description":"Mini, 5,000 sq. ft. Broadcast Spreader for Seed",
+            "imageUrl":"SeedSprayer",
+            "review":"***(400)"
+         },
+         {
+            "id":"43B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Indoor Plants",
+            "price":48.99,
+            "description":"10 in. White Bird in Paradise Pla",
+            "imageUrl":"IndoorPlants",
+            "review":""
+         },
+         {
+            "id":"44B26D05-FAD8-445A-B2F4-95635408004B",
+            "name":"Garden Soil",
+            "price":15.49,
+            "description":"1.5 cu. ft. Garden Soil for Trees and Shrub",
+            "imageUrl":"GardenSoil",
+            "review":""
+         }
+      ]
    }
 ]
